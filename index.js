@@ -11,5 +11,5 @@ const mensagens = [
     ))
 }
 
-
+scheduleLog(mensagens)
 module.exports= scheduleLog
